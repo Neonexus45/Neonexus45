@@ -1,5 +1,5 @@
 ## Bonjour !
-I am a small dev inspired to grow in time, I do pretty much everything you can think of but excel in opengl and C++ in general.
+I am a small dev inspired to grow in time, I do pretty much everything you can think of but I excel in opengl and C++ in general.
 
 open to any dm if you want to collab with me on a project :)
 
