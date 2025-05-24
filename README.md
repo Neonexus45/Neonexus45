@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Ethan
+# Hey there! 👋 I'm Neonexus
 
 ## 🚀 Young Dev | Data Engineer | AI Enthusiast
 
