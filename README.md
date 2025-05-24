@@ -67,4 +67,6 @@ Always down to discuss data engineering, AI experiments, or just cool tech stuff
 
 ---
 
-*"Building the future, one data pipeline at a time 🚀"*
+*"There is nothing impossible to him who will try."*
+- Alexander the Great
+
