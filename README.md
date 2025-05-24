@@ -55,8 +55,7 @@ Passionate about building data pipelines and exploring the endless possibilities
 
 ## 🌟 Featured Repos
 
-<!-- Add your best repositories here -->
-📌 **Pin your coolest projects!**
+I want to make impactful repos that I'm proud to show, for now everything i've done is private for reasons, or too simple to show off, so you'll have to wait !
 
 ---
 
