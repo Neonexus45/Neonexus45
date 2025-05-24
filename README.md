@@ -38,9 +38,9 @@ Passionate about building data pipelines and exploring the endless possibilities
 
 ## 📈 GitHub Stats
 
-![Ethan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&count_private=true)
+![Ethan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neonexus45&show_icons=true&theme=radical&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Neonexus45&layout=compact&theme=radical)
 
 ---
 
